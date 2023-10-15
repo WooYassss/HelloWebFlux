@@ -1,4 +1,4 @@
-package com.wooyassss.hellowebflux
+package com.wooyassss.hellowebflux.domain.hello
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
